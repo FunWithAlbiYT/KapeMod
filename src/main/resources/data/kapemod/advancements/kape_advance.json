@@ -1,0 +1,35 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "kapemod:kape_ore"
+    },
+    "title": {
+      "translate": "advancements.kape_advance.title"
+    },
+    "description": {
+      "translate": "advancements.kape_advance.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kape_advance": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "kapemod:kape_biome"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 600,
+    "recipes": [
+      "kapemod:kape_head_recipe",
+      "kapemod:kape_chest_recipe",
+      "kapemod:kape_pants_recipe",
+      "kapemod:kape_boots_recipe"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kapemod:blocks/kapeore",
+    "up": "kapemod:blocks/kapeore",
+    "north": "kapemod:blocks/kapeore",
+    "east": "kapemod:blocks/kapeore",
+    "south": "kapemod:blocks/kapeore",
+    "west": "kapemod:blocks/kapeore",
+    "particle": "kapemod:blocks/kapeore"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 33,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Is that Kape?",
+    "achievementDescription": "Find the kape biome",
+    "achievementIcon": {
+      "value": "CUSTOM:KapeOre"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "KapeHeadRecipe",
+      "KapeChestRecipe",
+      "KapePantsRecipe",
+      "KapeBootsRecipe"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 600,
+    "achievementType": "task",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"biome_entered\" x=\"42\" y=\"48\"><field name=\"biome\">CUSTOM:KapeBiome</field><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

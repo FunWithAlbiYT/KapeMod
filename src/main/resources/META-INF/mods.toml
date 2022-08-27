@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="kapemod"
+version="1.0.0"
+displayName="Kape Mod"
+credits="Credits to me for editing some files and MCreator for most of the mod."
+displayURL="https://discord.gg/EZshBhswQe"
+authors="FunWithAlbi, MCreator"
+
+[[dependencies.kapemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

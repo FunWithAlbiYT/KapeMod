@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 20.0,
+    "cookingTime": 60,
+    "recipeRetstackSize": 1,
+    "group": "kaperecipes",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:KapeOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:KapeIngot"
+    },
+    "name": "kape_ore_kape_ingot",
+    "namespace": "mod"
+  }
+}

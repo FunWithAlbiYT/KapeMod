@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kapemod:kape_ingot"
+    },
+    "2": {
+      "item": "kapemod:kape_ingot"
+    },
+    "3": {
+      "item": "kapemod:kape_ingot"
+    },
+    "5": {
+      "item": "kapemod:kape_ingot"
+    }
+  },
+  "result": {
+    "item": "kapemod:kape_armor_boots",
+    "count": 1
+  }
+}

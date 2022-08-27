@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kapemod:block/kape_ore"
+    }
+  }
+}

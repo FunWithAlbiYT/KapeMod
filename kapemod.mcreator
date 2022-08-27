@@ -1,0 +1,166 @@
+{
+  "mod_elements": [
+    {
+      "name": "KapeOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_ore"
+    },
+    {
+      "name": "KapeOreKapeIngot",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_ore_kape_ingot"
+    },
+    {
+      "name": "KapeItems",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_items"
+    },
+    {
+      "name": "KapeIngot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_ingot"
+    },
+    {
+      "name": "KapeArmor",
+      "type": "armor",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "KapeHeadRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_head_recipe"
+    },
+    {
+      "name": "KapeChestRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_chest_recipe"
+    },
+    {
+      "name": "KapePantsRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_pants_recipe"
+    },
+    {
+      "name": "KapeBootsRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_boots_recipe"
+    },
+    {
+      "name": "OpRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "op_recipe"
+    },
+    {
+      "name": "Op2Recipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "op_2_recipe"
+    },
+    {
+      "name": "PinkSauceWater",
+      "type": "fluid",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_sauce_water",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "KapeBiome",
+      "type": "biome",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_biome"
+    },
+    {
+      "name": "KapeAdvance",
+      "type": "achievement",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_advance"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.kapemod.pink_sauce_water_bucket": "Pink Sauce Bucket",
+      "advancements.kape_advance.descr": "Find the kape biome",
+      "fluid.kapemod.pink_sauce_water": "Pink Sauce Water",
+      "item.kapemod.kape_armor_helmet": "Kape Helmet",
+      "item.kapemod.kape_armor_leggings": "Kape Leggings",
+      "item.kapemod.kape_ingot": "Kape Ingot",
+      "advancements.kape_advance.title": "Is that Kape?",
+      "item.kapemod.kape_armor_chestplate": "Kape Chestplate",
+      "biome.kapemod.kape_biome": "Kape Biome",
+      "block.kapemod.pink_sauce_water": "Pink Sauce Water",
+      "item.kapemod.kape_armor_boots": "Kape Boots",
+      "block.kapemod.kape_ore": "Kape Ore",
+      "itemGroup.tabkape_items": "Kape Items"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "kapemod",
+    "modName": "Kape Mod",
+    "version": "1.0.0",
+    "author": "albi8, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "me.funwithalbi.kapemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

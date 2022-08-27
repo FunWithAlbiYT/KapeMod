@@ -1,0 +1,15 @@
+{
+  "item.kapemod.pink_sauce_water_bucket": "Pink Sauce Bucket",
+  "advancements.kape_advance.descr": "Find the kape biome",
+  "fluid.kapemod.pink_sauce_water": "Pink Sauce Water",
+  "item.kapemod.kape_armor_helmet": "Kape Helmet",
+  "item.kapemod.kape_armor_leggings": "Kape Leggings",
+  "item.kapemod.kape_ingot": "Kape Ingot",
+  "advancements.kape_advance.title": "Is that Kape?",
+  "item.kapemod.kape_armor_chestplate": "Kape Chestplate",
+  "biome.kapemod.kape_biome": "Kape Biome",
+  "block.kapemod.pink_sauce_water": "Pink Sauce Water",
+  "item.kapemod.kape_armor_boots": "Kape Boots",
+  "block.kapemod.kape_ore": "Kape Ore",
+  "itemGroup.tabkape_items": "Kape Items"
+}

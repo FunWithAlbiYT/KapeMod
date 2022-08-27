@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kapemod:kape_ingot"
+    },
+    "2": {
+      "item": "kapemod:kape_ingot"
+    },
+    "3": {
+      "item": "kapemod:kape_ingot"
+    },
+    "4": {
+      "item": "kapemod:kape_ingot"
+    },
+    "5": {
+      "item": "kapemod:kape_ingot"
+    },
+    "6": {
+      "item": "kapemod:kape_ingot"
+    },
+    "7": {
+      "item": "kapemod:kape_ingot"
+    },
+    "8": {
+      "item": "kapemod:kape_ingot"
+    }
+  },
+  "result": {
+    "item": "kapemod:kape_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "group": "kaperecipes",
+  "type": "minecraft:smelting",
+  "experience": 20,
+  "cookingtime": 60,
+  "ingredient": {
+    "item": "kapemod:kape_ore"
+  },
+  "result": "kapemod:kape_ingot"
+}
