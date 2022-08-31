@@ -1,7 +1,3 @@
-
-/*
- *    MCreator note: This file will be REGENERATED on each build.
- */
 package me.funwithalbi.kapemod.init;
 
 import net.minecraftforge.registries.RegistryObject;
